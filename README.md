@@ -1,4 +1,4 @@
-# produtos-front
+# gestao-estoque-front
 Versão CLI: Vue CLI 3
 ## Project setup
 ```
